@@ -10,11 +10,17 @@ I’m passionate about crafting intuitive, lightning-fast, and visually elegant 
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Frontend Animation" width="400" />
   
   <!-- GitHub Stats Cards -->
-  
+
   ## 📈 GitHub Stats
-  ![mdsakibhasanbd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsakibhasanbd&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhasanbd&layout=compact&theme=radical)](https://github.com/mdsakibhasanbd?tab=repositories)
+
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsakibhasanbd&theme=radical)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhasanbd&layout=compact&theme=radical)](https://github.com/mdsakibhasanbd?tab=repositories)
+
+  
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=mdsakibhasanbd&theme=radical&margin-w=5&row=1&column=4)](https://github.com/mdsakibhasanbd)
 
 </div>
