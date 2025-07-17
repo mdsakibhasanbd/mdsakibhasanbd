@@ -1,10 +1,22 @@
-# 🌐 Frontend Developer Application
+<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">👋 Hi, I'm MD Sakib Hasan</h1>
+
+# 🌐 Frontend Developer
 
 Thank you for taking the time to review my application for the Frontend Developer position.  
 I’m passionate about crafting intuitive, lightning-fast, and visually elegant web experiences that solve real-world problems, with code that’s just as clean under the hood.
 
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Frontend Animation" width="400" />
+  
+  <!-- GitHub Stats Cards -->
+  
+  ## 📈 GitHub Stats
+  ![mdsakibhasanbd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsakibhasanbd&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhasanbd&layout=compact&theme=radical)](https://github.com/mdsakibhasanbd?tab=repositories)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsakibhasanbd&theme=radical)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mdsakibhasanbd&theme=radical&margin-w=5&row=1&column=4)](https://github.com/mdsakibhasanbd)
+
 </div>
 
 ---
