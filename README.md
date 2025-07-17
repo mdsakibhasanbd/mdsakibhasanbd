@@ -8,21 +8,6 @@ I’m passionate about crafting intuitive, lightning-fast, and visually elegant 
 
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Frontend Animation" width="400" />
-  
-  <!-- GitHub Stats Cards -->
-
-  ## 📈 GitHub Stats
-
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsakibhasanbd&theme=radical)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhasanbd&layout=compact&theme=radical)](https://github.com/mdsakibhasanbd?tab=repositories)
-
-  
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mdsakibhasanbd&theme=radical&margin-w=5&row=1&column=4)](https://github.com/mdsakibhasanbd)
-
 </div>
 
 ---
@@ -116,6 +101,23 @@ At Blank System BD, I’ve had the opportunity to:
 | _More coming..._ |                                         |                          |
 
 ---
+
+<div align="center">
+  <!-- GitHub Stats Cards -->
+
+  ## 📈 GitHub Stats
+
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsakibhasanbd&theme=radical)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhasanbd&layout=compact&theme=radical)](https://github.com/mdsakibhasanbd?tab=repositories)
+
+  
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mdsakibhasanbd&theme=radical&margin-w=5&row=1&column=4)](https://github.com/mdsakibhasanbd)
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00DC82&width=435&lines=I+build+clean+%26+modern+UIs.;Nuxt+is+my+superpower.;Vue+3+%2B+Tailwind+rocks!;Let's+code+something+great+%F0%9F%9A%80" alt="Typing SVG" />
