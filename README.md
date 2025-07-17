@@ -1,7 +1,7 @@
 # 🌐 Frontend Developer Application
 
 Thank you for taking the time to review my application for the Frontend Developer position.  
-I’m passionate about crafting intuitive, fast, and beautiful web experiences that truly delight users.
+I’m passionate about crafting intuitive, lightning-fast, and visually elegant web experiences that solve real-world problems, with code that’s just as clean under the hood.
 
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Frontend Animation" width="400" />
@@ -16,7 +16,8 @@ I’m passionate about crafting intuitive, fast, and beautiful web experiences t
 - 📫 **Email:** [mdsakibhasanbd948@gmail.com](mailto:mdsakibhasanbd948@gmail.com)  
 - 🧑‍💻 **GitHub:** [github.com/mdsakibhasanbd](https://github.com/mdsakibhasanbd)
 
-I’m a frontend developer who loves transforming designs into pixel-perfect, performant applications — with a focus on Vue, Nuxt, and Tailwind CSS.
+I’m a frontend developer who finds joy in transforming beautiful UI designs into performant, accessible, and maintainable web applications — primarily using Vue 3, Nuxt 3, and Tailwind CSS.  
+I believe great user experience is where design meets logic, and that’s the sweet spot I love working in.
 
 ---
 
@@ -31,7 +32,7 @@ I’m a frontend developer who loves transforming designs into pixel-perfect, pe
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="Ionic" />
   <img width="12" />
-  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="36" />
+  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="30" />
 </div>
 
 #### 💻 Languages
@@ -73,8 +74,8 @@ I’m a frontend developer who loves transforming designs into pixel-perfect, pe
 
 At Blank System BD, I’ve had the opportunity to:
 
-- Build scalable, high-performance e-commerce platforms with **Nuxt 3**
-- Create responsive and reusable UI components using **Tailwind CSS**
+- Built scalable, high-performance e-commerce platforms using **Nuxt 3**
+- Developed responsive UI components with Tailwind CSS for fast and seamless UX
 - Optimize sites for SEO to improve visibility and user engagement
 - Collaborate closely with designers, backend engineers, and stakeholders to deliver business-driven solutions
 
@@ -83,7 +84,7 @@ At Blank System BD, I’ve had the opportunity to:
 ## 🏢 Companies
 
 | Company         | Website                                |
-|----------------|----------------------------------------|
+|-----------------|----------------------------------------|
 | Blank System BD | [blanksystembd.com](https://blanksystembd.com) |
 | Billmon BD      | [billmonbd.com](https://billmonbd.com)       |
 
