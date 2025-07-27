@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's up?</h1>
-<h1 align="center">👋 Hi, I'm MD Sakib Hasan</h1>
+<h1 align="center"> Hi, I'm MD Sakib Hasan</h1>
 
 # 🌐 Frontend Developer
 
