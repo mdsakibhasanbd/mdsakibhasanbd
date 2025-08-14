@@ -33,7 +33,6 @@ I believe great user experience is where design meets logic, and that’s the sw
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="30" alt="Nuxt.js" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="Ionic" />
   <img width="12" />
   <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="30" />
 </div>
