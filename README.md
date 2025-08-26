@@ -87,8 +87,8 @@ At Blank System BD, I’ve had the opportunity to:
 
 | Company         | Website                                |
 |-----------------|----------------------------------------|
-| Blank System BD | [blanksystembd.com](https://blanksystembd.com) |
-| Billmon BD      | [billmonbd.com](https://billmonbd.com)       |
+| Blank System | [blanksystembd.com](https://blanksystembd.com) |
+| Billmon      | [billmonbd.com](https://billmonbd.com)       |
 
 ---
 
